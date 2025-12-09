@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triathlon Notes.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Triathlon Notes"
+              "title": "Notes"
             }
           }
         ],
@@ -203,18 +203,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "01317e37099c4ca3",
   "lastOpenFiles": [
-    "README.md",
     "Pasted image 20251207210855.png",
+    "Pasted image 20251207172725.png",
+    "Triathlon Notes.md",
+    "README.md",
     "Project Roadmap.md",
     "Notes.md",
     "Welcome.md",
-    "Triathlon Notes.md",
-    "Pasted image 20251207172725.png",
     "Clippings/Reduced instruction set computer - Wikipedia.md",
     "Clippings/Cal.com  Open Scheduling Infrastructure.md",
     "Clippings/How Much Money Our Free Games Made in 2025.md",
