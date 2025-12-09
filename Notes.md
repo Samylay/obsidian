@@ -14,3 +14,4 @@ any data i feed the ai that will power the calendar app is to be stored in a way
 learn to use nordpass
 
 i  should learn to write papers, i can start with the documentation for my projects 
+this is a test
