@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Triathlon Notes.md",
+                "file": "Advent of code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Triathlon Notes"
+              "title": "Advent of code"
             }
           }
         ],
@@ -209,13 +209,13 @@
   },
   "active": "01317e37099c4ca3",
   "lastOpenFiles": [
+    "Triathlon Notes.md",
     "Project Roadmap.md",
     "Pasted image 20251207172725.png",
     "Notes.md",
     "Pasted image 20251207210855.png",
-    "Triathlon Notes.md",
     "README.md",
-    "Welcome.md",
+    "Advent of code.md",
     "Clippings/Reduced instruction set computer - Wikipedia.md",
     "Clippings/Cal.com  Open Scheduling Infrastructure.md",
     "Clippings/How Much Money Our Free Games Made in 2025.md",
