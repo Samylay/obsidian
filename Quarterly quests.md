@@ -11,3 +11,5 @@ GIT
 check progress on these goals during weekly resets
 
 morning manifesto
+
+![[Pasted image 20251218120910.png]]
