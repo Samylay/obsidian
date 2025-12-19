@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quarterly quests.md",
+                "file": "Clippings/(1) daily.dev  Where developers grow together.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quarterly quests"
+              "title": "(1) daily.dev  Where developers grow together"
             }
           }
         ],
@@ -223,10 +223,12 @@
   },
   "active": "aaa748ce1d6966fc",
   "lastOpenFiles": [
+    "Clippings/How I Learned System Design.md",
+    "Clippings/(1) daily.dev  Where developers grow together.md",
+    "Quarterly quests.md",
     "Pasted image 20251219145737.png",
     "Pasted image 20251218120910.png",
     "Untitled.md",
-    "Quarterly quests.md",
     "Advent of code.md",
     "Pasted image 20251218111133.png",
     "Triathlon Notes.md",
