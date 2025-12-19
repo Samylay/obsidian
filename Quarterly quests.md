@@ -14,6 +14,7 @@ morning manifesto
 
 ![[Pasted image 20251218120910.png]]
 
+![[Pasted image 20251219145737.png]]
 
 ## Notes
 raspberry pi server ?? 
