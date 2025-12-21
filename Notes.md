@@ -15,3 +15,5 @@ learn to use nordpass
 
 i  should learn to write papers, i can start with the documentation for my projects 
 this is a test
+
+ Urge surfinf : Urge surfing is a mindfulness technique that helps individuals manage cravings by observing and accepting their urges without acting on them. It involves recognizing urges as temporary sensations that rise and fall, allowing a person to gain control and reduce impulsive behaviors.
