@@ -17,6 +17,9 @@ when risky endeavours are taken they should be flagged risky or critical, and th
 the app should expose an API to work with voice commands give to the phone.
 the app should read my day to me when asked and i should be able to discuss things with it (ex: i woke up late and missed a workout, we should discuss wether i can skip it or am advised to reschedule it)
 
+there should be a feature resembling ali abdaal's journaling app where i say the note then tell the agent what to do for ex: i'm on holidays and have an idea about some code on my project, whip out the app, sy the idea then tell the agent to remind me in 2 weeks 
+
+
 **Core LLM Functionality ("The Agent"):**
 
 1. **Event Creation/Modification:** Parse natural language (e.g., "Schedule a 30-minute meeting with Jane next Tuesday afternoon about the Q3 report") and transform it into structured calendar data.
