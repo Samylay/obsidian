@@ -1,4 +1,12 @@
 
+
+powercfg /devicequery wake_armed
+
+powercfg /devicedisablewake "HID-compliant mouse"
+powercfg /devicedisablewake "HID Keyboard Device (001)"
+powercfg /devicedisablewake "HID Keyboard Device (005)"
+
+
 the stack i will use 
 
 obsidian
