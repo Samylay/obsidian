@@ -73,3 +73,10 @@ Whoa, we're like 90% the same. I've got 14 different email accounts synced in Sp
 
 
 # check twosapp 
+
+People who get interested in productivity are always looking for the best tools that will make the best.
+
+The reality is that yes, tools can bring nice functionalities, but they are not what matter. Productivity is about doing the things you should (focus on a list of tasks, follow your system). Even with the most basic apps, if you follow your rules you are supposed to be more productive than 90% of people, so don’t focus too much on the tools, just choose a stack you like and stick to it.
+
+For tasks, you can use Todoist. For calendar you can use Google Calendar or Notion calendar if you want something a bit more fancy. For notes you can stick with Apple Notes. For time tracking use Toggl. That’s it, stay with this stack, productivity is about having fun in doing the tasks and be good at what you do, not having fun trying new tools every other day.
+
