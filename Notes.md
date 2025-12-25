@@ -29,6 +29,7 @@ what
 
 customer first approach, what i need is to figure out what the productivity scene wants and if my AI calendar (alternative to Motionapp) would be interesting to them and if so how much they'd be willing to pay for it, i should likely post this in reddit to get the idea validated 
 
+# do a proper market research with pdfs 
 
 ## USER COMMENTS 
 I also found reclaim a bit clunky. The concept made sense - but I was finding the meetings I had allowed it to change would wind up in a surprising location.
