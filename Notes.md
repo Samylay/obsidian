@@ -38,3 +38,38 @@ I wish it would have run hourly and just messaged me / slack or similar with som
 
 -------------------------------------
 This is a really fair appraisal. I went from Motion to Reclaim and then back, but I'm slightly regretting it. Overall, I like Reclaim more as it has much better integrations with my ToDoist, it is less clunky and visually more interesting. However, Motion actually is persistent about rescheduling tasks that I haven't actually done. But they seem to have made it chunkier... I may move back, but I can't get over the automatic task rescheduled.
+
+
+- Apple Notes, for quick notes
+    
+- Plaud, for in-person note taking during meetings and idea-dumping
+    
+- Spellar AI, for online note taking
+    
+- Arc, as my default browser
+    
+- Dayone, for journaling
+    
+- Awesome Habits, for a more balanced life
+    
+- Todoist, for daily tasks
+    
+- Fantastical, for calendar
+    
+- Spark, for email
+    
+- Craft, as my second brain, storing and organizing all my notes and also for writing
+    
+- Readwise and Reader, for read-it-later and highlighting
+    
+- 1Password, for all my secrets
+    
+- ChatGPT and Perplexity, as my AI assistants
+    
+- A few small life improvements I can’t live without: Alfred, CleanMyMac, CleanShot X, Bartender, TextSniper, Dropzone, Timing, Paletro, and Leave Me Alone
+
+
+Whoa, we're like 90% the same. I've got 14 different email accounts synced in Spark. Subscribed to 9 calendars in Fantastical that I use to duplicate to my iCloud calendar so my wife, 2 kids, and 4 grandparents can see the important events on their phones. 1Password family for all four of us. ChatGPT pro for ideation and Perplexity for spinning up landing pages. Asana/Notion to manage projects, probably moving solely to notion because their AI is getting great. One thing I don't see on [yourskrisp.ai](http://yourskrisp.ai)
+
+
+check twosapp 
