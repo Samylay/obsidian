@@ -34,3 +34,6 @@ customer first approach, what i need is to figure out what the productivity scen
 I also found reclaim a bit clunky. The concept made sense - but I was finding the meetings I had allowed it to change would wind up in a surprising location.
 
 I wish it would have run hourly and just messaged me / slack or similar with some suggestions instead of just moving things around on its own
+
+-------------------------------------
+This is a really fair appraisal. I went from Motion to Reclaim and then back, but I'm slightly regretting it. Overall, I like Reclaim more as it has much better integrations with my ToDoist, it is less clunky and visually more interesting. However, Motion actually is persistent about rescheduling tasks that I haven't actually done. But they seem to have made it chunkier... I may move back, but I can't get over the automatic task rescheduled.
