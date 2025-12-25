@@ -72,4 +72,4 @@ This is a really fair appraisal. I went from Motion to Reclaim and then back, bu
 Whoa, we're like 90% the same. I've got 14 different email accounts synced in Spark. Subscribed to 9 calendars in Fantastical that I use to duplicate to my iCloud calendar so my wife, 2 kids, and 4 grandparents can see the important events on their phones. 1Password family for all four of us. ChatGPT pro for ideation and Perplexity for spinning up landing pages. Asana/Notion to manage projects, probably moving solely to notion because their AI is getting great. One thing I don't see on [yourskrisp.ai](http://yourskrisp.ai)
 
 
-check twosapp 
+# check twosapp 
