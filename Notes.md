@@ -80,3 +80,6 @@ The reality is that yes, tools can bring nice functionalities, but they are not 
 
 For tasks, you can use Todoist. For calendar you can use Google Calendar or Notion calendar if you want something a bit more fancy. For notes you can stick with Apple Notes. For time tracking use Toggl. That’s it, stay with this stack, productivity is about having fun in doing the tasks and be good at what you do, not having fun trying new tools every other day.
 
+
+
+

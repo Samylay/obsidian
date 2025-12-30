@@ -1,4 +1,8 @@
 
+validate the idea on reddit 
+produce a working POC 
+
+
 - Lock down a demo version of the vision
 - Decide on a stack to get it up and running keeping in mind that it may change
 - Develop a working demo of the calendar app with minimal features

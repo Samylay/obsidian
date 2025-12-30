@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,13 +207,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "01317e37099c4ca3",
+  "active": "aaa748ce1d6966fc",
   "lastOpenFiles": [
+    "Notes.md",
     "README.md",
     "Project Roadmap.md",
     "Pasted image 20251219145737.png",
     "Quarterly quests.md",
-    "Notes.md",
     "Untitled.md",
     "Triathlon Notes.md",
     "Clippings/(1) daily.dev  Where developers grow together.md",
