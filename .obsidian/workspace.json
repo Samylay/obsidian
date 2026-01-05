@@ -45,8 +45,7 @@
               "title": "Project Roadmap"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +206,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aaa748ce1d6966fc",
+  "active": "cf41da423c25d536",
   "lastOpenFiles": [
+    "Project Roadmap.md",
     "Notes.md",
     "README.md",
-    "Project Roadmap.md",
     "Pasted image 20251219145737.png",
     "Quarterly quests.md",
     "Untitled.md",
