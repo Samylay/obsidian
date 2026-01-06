@@ -83,3 +83,6 @@ For tasks, you can use Todoist. For calendar you can use Google Calendar or Noti
 
 
 
+i need to learn envs preprod 
+
+should ask oussama for a vps that i could use for my tests 

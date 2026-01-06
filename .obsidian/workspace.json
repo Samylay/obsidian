@@ -45,7 +45,8 @@
               "title": "Project Roadmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +207,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cf41da423c25d536",
+  "active": "01317e37099c4ca3",
   "lastOpenFiles": [
     "Project Roadmap.md",
     "Notes.md",
