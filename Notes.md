@@ -1,5 +1,15 @@
 
 
+weekly tasks checking template and assign each task to a weekday 
+
+
+
+
+
+
+
+
+
 powercfg /devicequery wake_armed
 
 powercfg /devicedisablewake "HID-compliant mouse"
