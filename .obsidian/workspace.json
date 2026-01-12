@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quarterly quests.md",
+                "file": "UX-UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quarterly quests"
+              "title": "UX-UI"
             }
           }
         ],
@@ -209,11 +209,12 @@
   },
   "active": "01317e37099c4ca3",
   "lastOpenFiles": [
+    "Pasted image 20260112105517.png",
+    "Quarterly quests.md",
     "Pasted image 20251218120910.png",
     "README.md",
     "Advent of code.md",
-    "Untitled.md",
-    "Quarterly quests.md",
+    "UX-UI.md",
     "Pasted image 20251218111133.png",
     "Triathlon Notes.md",
     "Project Roadmap.md",
