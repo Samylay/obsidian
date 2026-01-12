@@ -12,9 +12,14 @@ Pour réduire la frustration liée à l’ordre de saisie actuel, le formulaire 
 
 Afin de réduire la charge cognitive et les ressaisies répétées, une page dédiée à la gestion des passagers est introduite. Elle permet d’enregistrer des profils récurrents ainsi que les cartes de réduction associées. Ces informations peuvent ensuite être sélectionnées directement depuis l’écran de recherche, ce qui simplifie l’ajout de voyageurs et rend le parcours plus fluide pour les usages fréquents.
 
+
+
+
 ![[Pasted image 20260112161224.png]]
 
+![[Pasted image 20260112163519.png]]
 
-![[Pasted image 20260112162545.png]]
-
+a la page de resultat nous pouvons rajouter un bouton qui permet d'afficher une vue pour le calendrier avec les prixs sur un mois plutot que quelques jours.
 ![[Pasted image 20260112161949.png]]
+la page de details 
+![[Pasted image 20260112162545.png]]
