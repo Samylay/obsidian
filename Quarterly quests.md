@@ -12,8 +12,14 @@ check progress on these goals during weekly resets
 
 morning manifesto
 
+
+what i could do thanks to the n8n like automations is make the quarterly quests, and yearly quests and have a daily digest that tells me what i need to do that day to progress on my goals, could be plugged into the ai calendar manager taking into account the availability/energy levels 
+
+
+
 ![[Pasted image 20251218120910.png]]
 
+![[Pasted image 20251219145737.png]]
 
 ## Notes
 raspberry pi server ?? 
