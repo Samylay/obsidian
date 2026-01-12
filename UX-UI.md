@@ -22,6 +22,10 @@ Afin de réduire la charge cognitive et les ressaisies répétées, une page dé
 ### Vue calendrier avec comparaison des prix
 
 Afin d’aider l’utilisateur à identifier rapidement l’option la plus avantageuse, un bouton est ajouté sur la page de résultats (en retirant quelques dates et en ajoutant une icone de calendrier) permettant d’accéder à une vue calendrier. Cette vue présente les prix sur l’ensemble du mois, plutôt que sur une période limitée à quelques jours. Elle facilite la comparaison des dates, réduit les recherches répétées et répond aux usages flexibles où le choix du jour dépend principalement du prix.
+(si l'utilisateur choisit de prendre un départ et un retour en mmeme temps l'UI s'adapte pour ajouter )
 
 ![[Pasted image 20260112161949.png]]
-les pages de details, de panier, et de paiement, ne changerait pas outre 
+les pages de details, de panier, et de paiement, ne changeraient pas outre le fait de ne pas deplier le detail du trajet sur la page de panier pour avoir a moins scrolller pour arriver au boiuton de validation 
+### Optimisation des pages de détail, panier et paiement
+
+Les pages de détail du trajet, de panier et de paiement ne sont modifiées, leur structure étant déjà fonctionnelle. En revanche, le détail complet du trajet n’est plus déplié par défaut sur la page panier. Cette simplification permet de réduire la hauteur de la page, de limiter le scroll avant d'accéder au bouton de validation, facilitant la progression vers le paiement.
