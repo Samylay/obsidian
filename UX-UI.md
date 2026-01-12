@@ -9,8 +9,11 @@ decrire ce quie se passe actuellemnt vs ce quit se passe sur ma version
 
 Pour palier a la  frustration de l'utilisateur qu'est le fait de mettre la destination avant le depart on peut ajouter le depart au formulaire ainsi que la date dans le composant de recherche initial, ce qui permettra d'eviter un changement de page et donc raccourcira le tunnel de reservation de billet.
 
+trouver un moyen de save user data et de simplifier l'ajout de passagers 
+
 ![[Pasted image 20260112161224.png]]
 
 
+![[Pasted image 20260112162545.png]]
 
 ![[Pasted image 20260112161949.png]]
