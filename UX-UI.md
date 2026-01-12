@@ -19,8 +19,9 @@ Afin de réduire la charge cognitive et les ressaisies répétées, une page dé
 
 ![[Pasted image 20260112161224.png]]
 
-![[Pasted image 20260112163519.png]]
+### Vue calendrier avec comparaison des prix
 
-a la page de resultat nous pouvons rajouter un bouton qui permet d'afficher une vue pour le calendrier avec les prixs sur un mois plutot que quelques jours.
+Afin d’aider l’utilisateur à identifier rapidement l’option la plus avantageuse, un bouton est ajouté sur la page de résultats (en retirant quelques dates et en ajoutant une icone de calendrier) permettant d’accéder à une vue calendrier. Cette vue présente les prix sur l’ensemble du mois, plutôt que sur une période limitée à quelques jours. Elle facilite la comparaison des dates, réduit les recherches répétées et répond aux usages flexibles où le choix du jour dépend principalement du prix.
+
 ![[Pasted image 20260112161949.png]]
-la page de details ne changerait pas outre 
+les pages de details, de panier, et de paiement, ne changerait pas outre 
