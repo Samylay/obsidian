@@ -13,6 +13,9 @@ are the signal, anything else is the noise
 
 use a table for both these columns 
 
+
+daily routine for signal to noise planning 
+
 - Lock down a demo version of the vision
 - Decide on a stack to get it up and running keeping in mind that it may change
 - Develop a working demo of the calendar app with minimal features
