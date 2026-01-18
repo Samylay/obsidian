@@ -5,6 +5,16 @@ weekly tasks checking template and assign each task to a weekday
 
 
 
+master signal to noise ratio
+
+3-5 most critical things that need to be done in the next 18 hours 
+are the signal, anything else is the noise 
+80-20 signal to noise ratio 
+
+use a table for both these columns 
+
+
+daily routine for signal to noise planning 
 
 
 
