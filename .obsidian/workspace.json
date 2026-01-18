@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20251207172725.png"
+                "file": "Pasted image 20251219145737.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20251207172725"
+              "title": "Pasted image 20251219145737"
             }
           },
           {
@@ -208,12 +208,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cf41da423c25d536",
+  "active": "1d963343142cfadb",
   "lastOpenFiles": [
-    "Pasted image 20251218111133.png",
-    "Pasted image 20251218120910.png",
     "Pasted image 20251219145737.png",
+    "Triathlon Notes.md",
+    "Quarterly quests.md",
+    "README.md",
+    "Notes.md",
+    "Pasted image 20251207172725.png",
+    "Pasted image 20251218120910.png",
     "Pasted image 20251207210855.png",
+    "Pasted image 20251218111133.png",
     "School/UXUI/Pasted image 20260112105517.png",
     "School/UXUI/Pasted image 20260112161224.png",
     "School/UXUI/Pasted image 20260112161949.png",
@@ -221,17 +226,11 @@
     "School/UXUI/Pasted image 20260112162545.png",
     "School/UXUI",
     "School",
-    "School/UXUI/Pasted image 20260112163519.png",
-    "School/UXUI/Pasted image 20260112165429.png",
-    "Notes.md",
     "Advent of code.md",
     "MikeRoxy.md",
     "School/UXUI/UX-UI.md",
     "Project Roadmap.md",
     "Untitled.md",
-    "README.md",
-    "Quarterly quests.md",
-    "Triathlon Notes.md",
     "Clippings/(1) daily.dev  Where developers grow together.md",
     "Clippings/How I Learned System Design.md",
     "Welcome.md",

@@ -28,10 +28,3 @@ Have training phases using different TIDs
 - Workouts: VO2 max intervals (fraco), rest 2 mins, short hill climbs, Tempo runs (3x10 minutes hard aka close to LT2), longruns, easy runs
 - Drills: A skips, B skips, high knees 
 
-
-
-C:\Users\layai\Documents\Obsidian Vault\Triathlon Notes.md
-# Cycling Theory
-
-
-![[Pasted image 20251207210855.png]]
