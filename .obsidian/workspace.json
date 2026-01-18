@@ -11,12 +11,14 @@
             "id": "cf41da423c25d536",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251219145737.png"
+                "file": "School/UXUI/UX-UI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251219145737"
+              "icon": "lucide-file",
+              "title": "UX-UI"
             }
           },
           {
@@ -208,8 +210,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1d963343142cfadb",
+  "active": "cf41da423c25d536",
   "lastOpenFiles": [
+    "Pasted image 20251207210855.png",
     "Pasted image 20251219145737.png",
     "Triathlon Notes.md",
     "Quarterly quests.md",
@@ -217,7 +220,6 @@
     "Notes.md",
     "Pasted image 20251207172725.png",
     "Pasted image 20251218120910.png",
-    "Pasted image 20251207210855.png",
     "Pasted image 20251218111133.png",
     "School/UXUI/Pasted image 20260112105517.png",
     "School/UXUI/Pasted image 20260112161224.png",
