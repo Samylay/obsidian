@@ -18,10 +18,7 @@ daily routine for signal to noise planning
 
 
 
-
-
 powercfg /devicequery wake_armed
-
 powercfg /devicedisablewake "HID-compliant mouse"
 powercfg /devicedisablewake "HID Keyboard Device (001)"
 powercfg /devicedisablewake "HID Keyboard Device (005)"
