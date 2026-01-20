@@ -11,28 +11,15 @@
             "id": "cf41da423c25d536",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "11727aedfa08df0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251218120910.png"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251218120910"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c1b387ecf4d6334e",
@@ -194,13 +180,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "11727aedfa08df0f",
+  "active": "cf41da423c25d536",
   "lastOpenFiles": [
+    "Pasted image 20251207172725.png",
+    "Pasted image 20251219145737.png",
+    "School/UXUI/Pasted image 20260120123556.png",
+    "School/UXUI/Pasted image 20260120124444.png",
     "Untitled.md",
     "School/UXUI/Evaluation UX.md",
-    "Pasted image 20260120124444.png",
-    "Pasted image 20260120124236.png",
-    "Pasted image 20260120123556.png",
+    "School/UXUI/Pasted image 20260120124236.png",
     "School/UXUI/UX-UI.md",
     "UX-UI.md",
     "School/UXUI/Pasted image 20260112165429.png",
@@ -209,7 +197,6 @@
     "School/UXUI/Pasted image 20260112161949.png",
     "School/UXUI/Pasted image 20260112161224.png",
     "School/UXUI/Pasted image 20260112160828.png",
-    "School/UXUI/Pasted image 20260112105517.png",
     "School/UXUI",
     "School",
     "Clippings/(1) daily.dev  Where developers grow together.md",
