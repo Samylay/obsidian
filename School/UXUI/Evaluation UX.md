@@ -24,8 +24,9 @@
 ### Analyse UX — selon les critères d’Amélie Boucher
 
 #### Compréhension  
-D’après le critère de **compréhension**, certains mots, labels et éléments marketing ne sont pas suffisamment explicites.  
-Les affordances existent, mais leur sens est parfois détourné à des fins commerciales, ce qui nuit à la clarté et à la transparence.
+D’après le critère de **compréhension**, certains mots et labels ne sont pas suffisamment explicites.  
+certaines interactions ne sont pas immediatement claires, par exemple pour avoir les boutons indiquant le scroll, il faut 
+![[Pasted image 20260120124236.png]]
 
 
 #### Assistance  
@@ -62,8 +63,3 @@ Amazon.fr propose une expérience :
 - **Priorisant les ventes sur l'ergonomie**
 
 L’UX est clairement optimisée pour la **conversion** et la **rétention**, au prix de la **lisibilité**.
-
-### Problèmes prioritaires à adresser
-
-- **Organisation visuelle** : hiérarchiser plus clairement les informations essentielles  
-- **Surcharge informationnelle** : réduire la densité cognitive
