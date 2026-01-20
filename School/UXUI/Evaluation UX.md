@@ -13,11 +13,11 @@
    L’utilisateur doit fournir un effort supplémentaire pour comparer prix, avis et pertinence.
 
 5. **Consultation de la fiche produit**  
-   Informations riches mais peu hiérarchisées : prix, livraison, options, cross-selling, garanties, labels marketing.  
+   Informations riches et denses mais peu hiérarchisées : prix, livraison, options, garanties, labels marketing.  
 
 
 6. **Décision et ajout au panier**  
-   Le bouton “Ajouter au panier” et “Acheter” sont visibles bien que la difference entre les deux ne soit pas immediatement claire pour   
+   Le bouton “Ajouter au panier” et “Acheter” sont visibles bien que la difference entre les deux ne soit pas immediatement claire pour un nouvel utilisateur de la plateforme  
 
 
 ---
@@ -26,6 +26,7 @@
 #### Compréhension  
 D’après le critère de **compréhension**, certains mots, labels et éléments marketing ne sont pas suffisamment explicites.  
 Les affordances existent, mais leur sens est parfois détourné à des fins commerciales, ce qui nuit à la clarté et à la transparence.
+
 
 #### Assistance  
 D’après le critère d’**assistance**, l’utilisateur est peu accompagné dans sa navigation.  
@@ -38,18 +39,19 @@ Les erreurs sont signalées, sans toujours expliquer clairement comment les corr
 #### Rapidité  
 D’après le critère de **rapidité**, l’accès à l’information est performant d’un point de vue technique, mais ralenti cognitivement.  
 La surcharge informationnelle complique la prise de décision et freine la navigation intuitive.
-
+Aussi, le fait que certains boutons de navigation qui a priori ont la meme fonction sont formules differement, ce qui peut induire de l'hesitation
+![[Pasted image 20260120123556.png]]
 #### Liberté  
 D’après le critère de **liberté**, l’utilisateur ne garde pas toujours le sentiment de contrôle.  
-Les recommandations, produits sponsorisés et parcours guidés orientent fortement les choix, parfois au détriment de l’intention initiale.
+Les recommandations, produits sponsorisés en tete de liste et parcours guidés orientent fortement les choix, parfois au détriment de l’intention initiale.
 
 #### Accessibilité  
 D’après le critère d’**accessibilité**, l’interface s’adresse à un public très large mais manque d’adaptation fine selon les profils.  
-La densité visuelle et informationnelle peut pénaliser certains utilisateurs (novices, seniors, publics spécifiques).
+La densité visuelle et informationnelle peut pénaliser certains utilisateurs (novices, personnes agees...).
 
 #### Satisfaction de l’utilisateur  
 D’après le critère de **satisfaction**, l’expérience est efficace mais peu conviviale.  
-L’utilisateur atteint son objectif, mais souvent au prix d’un effort cognitif élevé, ce qui limite le plaisir et la confiance à long terme.
+L’utilisateur atteint son objectif, mais souvent au prix d’un effort cognitif élevé, ce qui peut limiter la confiance à long terme.
 
 ## Synthèse de l’évaluation
 
