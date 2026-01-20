@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "c793f7d86044e4ce",
+            "id": "11727aedfa08df0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/UXUI/Evaluation UX.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluation UX"
+              "title": "Untitled"
             }
           }
         ],
@@ -194,12 +194,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c793f7d86044e4ce",
+  "active": "11727aedfa08df0f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "School/UXUI/Evaluation UX.md",
     "Pasted image 20260120124444.png",
     "Pasted image 20260120124236.png",
     "Pasted image 20260120123556.png",
-    "School/UXUI/Evaluation UX.md",
     "School/UXUI/UX-UI.md",
     "UX-UI.md",
     "School/UXUI/Pasted image 20260112165429.png",
@@ -211,8 +212,6 @@
     "School/UXUI/Pasted image 20260112105517.png",
     "School/UXUI",
     "School",
-    "Pasted image 20260112165429.png",
-    "Untitled.md",
     "Clippings/(1) daily.dev  Where developers grow together.md",
     "Quarterly quests.md",
     "README.md",
