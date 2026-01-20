@@ -9,25 +9,25 @@
    Les suggestions automatiques accélèrent la saisie, mais orientent fortement vers les produits sponsorisés.
 
 3. **Page de résultats**  
-   Mélange de résultats organiques et sponsorisés, souvent peu différenciés visuellement. Avec les produits sponsorisés mis en tete de liste.
+   Mélange de résultats organiques et sponsorisés, souvent peu différenciés visuellement, avec les produits sponsorisés mis en tête de liste.  
    L’utilisateur doit fournir un effort supplémentaire pour comparer prix, avis et pertinence.
 
-5. **Consultation de la fiche produit**  
-   Informations riches et denses mais peu hiérarchisées : prix, livraison, options, garanties, labels marketing.  
+4. **Consultation de la fiche produit**  
+   Informations riches et denses mais peu hiérarchisées : prix, livraison, options, garanties, labels marketing.
 
-
-6. **Décision et ajout au panier**  
-   Le bouton “Ajouter au panier” et “Acheter” sont visibles bien que la difference entre les deux ne soit pas immediatement claire pour un nouvel utilisateur de la plateforme  
-
+5. **Décision et ajout au panier**  
+   Les boutons « Ajouter au panier » et « Acheter » sont visibles, bien que la différence entre les deux ne soit pas immédiatement claire pour un nouvel utilisateur de la plateforme.
 
 ---
+
 ### Analyse UX — selon les critères d’Amélie Boucher
 
 #### Compréhension  
 D’après le critère de **compréhension**, certains mots et labels ne sont pas suffisamment explicites.  
-certaines interactions ne sont pas immediatement claires, par exemple pour avoir les boutons indiquant le scroll, il faut 
-![[Pasted image 20260120124236.png]]
+Certaines interactions ne sont pas immédiatement claires ; par exemple, pour afficher les boutons indiquant le défilement horizontal, l’utilisateur doit passer sa souris sur la catégorie concernée.
 
+![[Pasted image 20260120124236.png]]  
+![[Pasted image 20260120124444.png]]
 
 #### Assistance  
 D’après le critère d’**assistance**, l’utilisateur est peu accompagné dans sa navigation.  
@@ -39,20 +39,24 @@ Les erreurs sont signalées, sans toujours expliquer clairement comment les corr
 
 #### Rapidité  
 D’après le critère de **rapidité**, l’accès à l’information est performant d’un point de vue technique, mais ralenti cognitivement.  
-La surcharge informationnelle complique la prise de décision et freine la navigation intuitive.
-Aussi, le fait que certains boutons de navigation qui a priori ont la meme fonction sont formules differement, ce qui peut induire de l'hesitation
+La surcharge informationnelle complique la prise de décision et freine la navigation.  
+De plus, le fait que certains boutons de navigation, qui ont a priori la même fonction, soient formulés différemment peut induire de l’hésitation et donc un ralentissement.
+
 ![[Pasted image 20260120123556.png]]
+
 #### Liberté  
 D’après le critère de **liberté**, l’utilisateur ne garde pas toujours le sentiment de contrôle.  
-Les recommandations, produits sponsorisés en tete de liste et parcours guidés orientent fortement les choix, parfois au détriment de l’intention initiale.
+Les recommandations, les produits sponsorisés en tête de liste et les parcours guidés orientent fortement les choix, parfois au détriment de l’intention initiale.
 
 #### Accessibilité  
 D’après le critère d’**accessibilité**, l’interface s’adresse à un public très large mais manque d’adaptation fine selon les profils.  
-La densité visuelle et informationnelle peut pénaliser certains utilisateurs (novices, personnes agees...).
+La densité visuelle et informationnelle peut pénaliser certains utilisateurs (novices, personnes âgées, etc.).
 
 #### Satisfaction de l’utilisateur  
 D’après le critère de **satisfaction**, l’expérience est efficace mais peu conviviale.  
 L’utilisateur atteint son objectif, mais souvent au prix d’un effort cognitif élevé, ce qui peut limiter la confiance à long terme.
+
+---
 
 ## Synthèse de l’évaluation
 
@@ -60,6 +64,6 @@ Amazon.fr propose une expérience :
 
 - **Très efficace fonctionnellement**
 - **Pénalisée par une surcharge informationnelle**
-- **Priorisant les ventes sur l'ergonomie**
+- **Priorisant les ventes sur l’ergonomie**
 
 L’UX est clairement optimisée pour la **conversion** et la **rétention**, au prix de la **lisibilité**.
