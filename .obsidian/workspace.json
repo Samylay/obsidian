@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf41da423c25d536",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251218120910.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251218120910"
-            }
-          },
-          {
-            "id": "4c37ff6c09abdf90",
+            "id": "aaa748ce1d6966fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOR-DOD.md",
+                "file": "Project Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOR-DOD"
+              "title": "Project Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,32 +182,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c37ff6c09abdf90",
+  "active": "aaa748ce1d6966fc",
   "lastOpenFiles": [
     "Pasted image 20260121145936.png",
-    "Pasted image 20251218120910.png",
     "DOR-DOD.md",
-    "Pasted image 20251207172725.png",
-    "Pasted image 20251219145737.png",
-    "School/UXUI/Pasted image 20260120123556.png",
-    "School/UXUI/Pasted image 20260120124444.png",
-    "School/UXUI/Evaluation UX.md",
-    "School/UXUI/Pasted image 20260120124236.png",
     "School/UXUI/UX-UI.md",
-    "UX-UI.md",
-    "School/UXUI/Pasted image 20260112165429.png",
-    "School/UXUI/Pasted image 20260112163519.png",
-    "School/UXUI/Pasted image 20260112162545.png",
-    "School/UXUI/Pasted image 20260112161949.png",
-    "School/UXUI",
-    "School",
-    "Clippings/(1) daily.dev  Where developers grow together.md",
+    "School/UXUI/Pasted image 20260120124444.png",
+    "School/UXUI/Pasted image 20260120124236.png",
+    "School/UXUI/Pasted image 20260120123556.png",
+    "School/UXUI/Evaluation UX.md",
+    "Pasted image 20251207210855.png",
+    "Pasted image 20251219145737.png",
+    "Triathlon Notes.md",
     "Quarterly quests.md",
     "README.md",
-    "Advent of code.md",
-    "Triathlon Notes.md",
-    "Project Roadmap.md",
     "Notes.md",
+    "Pasted image 20251207172725.png",
+    "Pasted image 20251218120910.png",
+    "Pasted image 20251218111133.png",
+    "School/UXUI/Pasted image 20260112105517.png",
+    "School/UXUI/Pasted image 20260112161224.png",
+    "School/UXUI",
+    "School",
+    "Advent of code.md",
+    "MikeRoxy.md",
+    "Project Roadmap.md",
+    "Untitled.md",
+    "Clippings/(1) daily.dev  Where developers grow together.md",
+    "Clippings/How I Learned System Design.md",
+    "Welcome.md",
     "Clippings/Reduced instruction set computer - Wikipedia.md",
     "Clippings/Cal.com  Open Scheduling Infrastructure.md",
     "Clippings/How Much Money Our Free Games Made in 2025.md",
