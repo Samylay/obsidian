@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Project Roadmap"
             }
+          },
+          {
+            "id": "a2055aefb6314d1e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "aaa748ce1d6966fc",
+  "active": "a2055aefb6314d1e",
   "lastOpenFiles": [
     "School/DOR-DOD.md",
     "Pasted image 20260121145936.png",
