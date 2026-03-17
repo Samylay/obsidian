@@ -11,14 +11,10 @@
             "id": "cf41da423c25d536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Triathlon Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Triathlon Notes"
+              "title": "New tab"
             }
           }
         ]
