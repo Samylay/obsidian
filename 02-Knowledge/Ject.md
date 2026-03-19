@@ -13,7 +13,14 @@ rm is recap de mission that say all that the intervenant has to do, there will b
 
 
 questions: 
-IA reliability
+IA reliability, big no  estimations are with difficulté et temps 
 
 how does the handoff happen
 
+
+
+what kind of projects CAN we do 
+
+we dint do maintenance and hebergement, info that can be found 
+
+if client wants maintenance on passe sur une convention de cadre qui permet de faire des bons de commande 
