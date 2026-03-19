@@ -10,6 +10,12 @@ convention d'étude for the usual stuff, there is a template
 
 CE IS IMPORTANT 
 
+comment sestimer les frais de gestion ? environs 5%
+
+ask about the wiki's reliabiliy or is it the drive that conta
+
+pourcentage d'acompte is usually 30 % p=but changes, pour particuliers it's 50% etc.. 
+
 rm is recap de mission that say all that the intervenant has to do, there will be un cahier des charges précis (doit être TRÈS clair pour les personnes non techniques)
 
 3 mois de guarantie de prise en charge post mission
