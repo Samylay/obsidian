@@ -20,15 +20,7 @@ IA reliability, big no  estimations are with difficulté et temps
 
 if i get someone organically how do i get them in the ject pipeline 
 
-how does the handoff happen
-
-
-
-
-
-
-
-
+how does the handoff happen 
 
 
 avenant dans la convention des fiches, cb de temps en plus et cb de frais en plus 
