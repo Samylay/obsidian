@@ -18,7 +18,7 @@ IA reliability, big no  estimations are with difficulté et temps
 
 
 
-
+if i get someone organically how do i get them in the ject pipeline 
 
 how does the handoff happen
 
