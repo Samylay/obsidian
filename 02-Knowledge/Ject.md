@@ -19,8 +19,12 @@ how does the handoff happen
 
 
 
-what kind of projects CAN we do 
+what kind of projects CAN we do anything apparently lol 
 
 we dint do maintenance and hebergement, info that can be found 
 
 if client wants maintenance on passe sur une convention de cadre qui permet de faire des bons de commande 
+
+si le ticket est critique
+
+ne jamais promettre de délai
