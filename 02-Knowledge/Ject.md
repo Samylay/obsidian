@@ -7,6 +7,9 @@ convention cadre for long term collaboration
 
 convention d'étude for the usual stuff, there is a template 
 
+
+CE IS IMPORTANT 
+
 rm is recap de mission that say all that the intervenant has to do, there will be un cahier des charges précis (doit être TRÈS clair pour les personnes non techniques)
 
 3 mois de guarantie de prise en charge post mission
@@ -16,7 +19,9 @@ questions:
 IA reliability, big no  estimations are with difficulté et temps 
 
 
+pour l'aspect design ca se passe coté intervenant 
 
+check PC style air france 
 
 if i get someone organically how do i get them in the ject pipeline 
 
