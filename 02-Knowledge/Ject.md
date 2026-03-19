@@ -15,9 +15,23 @@ rm is recap de mission that say all that the intervenant has to do, there will b
 questions: 
 IA reliability, big no  estimations are with difficulté et temps 
 
+
+
+
+
+
 how does the handoff happen
 
 
+
+
+
+
+
+
+
+
+avenant dans la convention des fiches, cb de temps en plus et cb de frais en plus 
 
 what kind of projects CAN we do anything apparently lol 
 
