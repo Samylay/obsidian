@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.5"
             }
+          },
+          {
+            "id": "dd32c50b3f10d9bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a2055aefb6314d1e",
+  "active": "dd32c50b3f10d9bf",
   "lastOpenFiles": [
     "Attachments/Pasted image 20251218120910.png",
     "Attachments/Pasted image 20260121145936.png",
