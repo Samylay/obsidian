@@ -28,9 +28,9 @@ Then run `/gsd:new-project` if you have GSD installed globally.
 
 ## Install GSD globally (recommended)
 ```bash
-npm install -g get-shit-done-claude
+npx get-shit-done-cc@latest
 ```
-Then all `/gsd:*` commands are available in any project.
+Select **Claude Code** as runtime, **global** as scope. Then all `/gsd:*` commands are available in any project.
 
 ## Files in `.planning/`
 

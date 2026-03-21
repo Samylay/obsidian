@@ -14,4 +14,6 @@ Steps:
 
 Vault template location: C:/Users/layai/Documents/Obsidian Vault/00-System/GSD-Template/
 
-When done, tell the user to run `/gsd:plan-phase 1` to begin.
+When done, tell the user:
+- If GSD is installed globally: run `/gsd:plan-phase 1` to begin
+- If not installed: run `npx get-shit-done-cc@latest` → select Claude Code + global, then run `/gsd:plan-phase 1`
