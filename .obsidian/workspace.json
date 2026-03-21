@@ -44,9 +44,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.7"
             }
+          },
+          {
+            "id": "4db78acc21367552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,8 +221,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dd32c50b3f10d9bf",
+  "active": "4db78acc21367552",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "test.sh",
+    "Untitled.md",
+    "03-Projects/GameDev.md",
+    "03-Projects",
+    "02-Knowledge/Ject.md",
+    "01-Inbox/Inbox.md",
+    "01-Inbox",
     "Attachments/Pasted image 20251218120910.png",
     "Attachments/Pasted image 20260121145936.png",
     "Attachments/Pasted image 20251219145737.png",
@@ -221,7 +243,6 @@
     "02-Knowledge/School/UXUI/Pasted image 20260112163519.png",
     "02-Knowledge/School/UXUI/Pasted image 20260112165429.png",
     "02-Knowledge/School/UXUI/Pasted image 20260112105517.png",
-    "02-Knowledge/School/UXUI/Pasted image 20260112161949.png",
     "02-Knowledge/School/UXUI/Evaluation-UX.md",
     "02-Knowledge/Clippings/Reduced instruction set computer - Wikipedia.md",
     "02-Knowledge/School/DOR-DOD.md",
@@ -246,13 +267,8 @@
     "Advent of code.md",
     "MikeRoxy.md",
     "Project Roadmap.md",
-    "Untitled.md",
     "Clippings/(1) daily.dev  Where developers grow together.md",
     "Clippings/How I Learned System Design.md",
-    "Welcome.md",
-    "Clippings/Reduced instruction set computer - Wikipedia.md",
-    "Clippings/Cal.com  Open Scheduling Infrastructure.md",
-    "Untitled.canvas",
-    "Clippings"
+    "Untitled.canvas"
   ]
 }
