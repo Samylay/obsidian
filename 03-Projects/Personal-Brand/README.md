@@ -26,11 +26,7 @@ EPITA student + web dev passionate about AI, cybersecurity, software dev. Joined
 5. GrapheneOS switch — why and how
 
 ## Tasks
-- [ ] Take pro picture for socials
-- [ ] Set up content calendar
-- [ ] Schedule first 3 carousels
-- [ ] Research: how video ranks #1 on YouTube
-- [ ] Explore: future Epita students content angle
+→ [[02-GSD/Tasks/Active]]
 
 ## Monetisation Backlog
 - Mailing list → learnings from JECT → sell a course → accompagnement

@@ -7,7 +7,4 @@ Sendai summer school, approximately June–July 2026.
 - No student visa required (short stay)
 
 ## Tasks
-- [ ] Confirm dates and accommodation
-- [ ] Review visa requirements
-- [ ] Japanese study: focus on daily conversation
-- [ ] Budget planning for trip
+→ [[02-GSD/Tasks/Active]]

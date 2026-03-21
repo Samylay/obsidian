@@ -25,10 +25,8 @@ Triban RC500 — Shimano Sora, 9-speed. Chain wax: Zéfal Extra Dry Wax.
 - Normandy trip: April 1–10 (Étretat base → Deauville) — open water swim + coastal cycling
 - Sprint warm-up: Super Sprint Paris 16ème in April
 
-## Active Tasks
-- [ ] Resume swim sessions from March 30
-- [ ] T1 transition practice with Pioneer wetsuit
-- [ ] Open water swim sessions in Normandy (April)
+## Tasks
+→ [[02-GSD/Tasks/Active]]
 
 ## Links
 - [[LOG]] — training log

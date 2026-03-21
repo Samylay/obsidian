@@ -10,6 +10,5 @@
 |--------|--------|-------|
 | C++ | In progress | cppreference only in exam |
 
-## Active Tasks
-- [ ] Prepare for C++ exam
-- [ ] Check weighted semester average
+## Tasks
+→ [[02-GSD/Tasks/Active]]

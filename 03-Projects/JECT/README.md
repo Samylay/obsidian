@@ -10,13 +10,8 @@ Transitioning from content phase into structured project execution.
 **Cold outreach:** Lead with genuine apology for cold contact → deliver free personalized value (Loom > generic PDF) → small optional ask. Value must be usable without me.
 **Client framing:** Website = more clients. Always lead with SEO value.
 
-## Active Tasks
-- [ ] Get familiar with past JECT projects (timelines, costs, profiles)
-- [ ] Define profiles to hire inside JE
-- [ ] Understand where target companies gather → redirect to AI assessment tool
-- [ ] n8n automation for JECT content creation
-- [ ] Template for site vitrine with CMS
-- [ ] Weekly DevCo blocs (schedule)
+## Tasks
+→ [[02-GSD/Tasks/Active]]
 
 ## n8n Pipeline (built)
 `Schedule Trigger → Notion Inbox → SerpAPI → Claude enrichment → Hunter.io → Notion Output DB`
