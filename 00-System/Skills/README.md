@@ -16,8 +16,4 @@ When you type `/skill-name`, Claude loads the file and executes its instructions
 | capture | `/capture` | Quick add to 01-Inbox/Inbox.md |
 
 ## Setup
-Skills need to be placed in `.claude/skills/` at your vault root for Claude Code to recognize them automatically. The files here are the source — copy them there when ready.
-
-```bash
-cp "00-System/Skills/*.md" ".claude/skills/"
-```
+Skills live in `.claude/skills/` at the vault root — that's where Claude Code reads them from. They're already installed there.
