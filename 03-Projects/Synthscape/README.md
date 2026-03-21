@@ -17,5 +17,5 @@
 
 ## Links
 - [[LOG]] — project log
-- Figma board: [add link]
+- Figma board: [Synthscape Board](https://www.figma.com/board/bxPMs16bbpL9iHTVgne7LE/Synthscape)
 - Unity project: [add path]
