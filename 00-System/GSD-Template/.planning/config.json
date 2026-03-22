@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "project": {
+    "name": "",
+    "type": "greenfield"
+  },
+  "workflow": {
+    "auto_research": true,
+    "verification_loop": true,
+    "parallel_execution": true,
+    "atomic_commits": true,
+    "context_per_task": "200k"
+  },
+  "preferences": {
+    "summary_style": "standard",
+    "plan_granularity": "standard",
+    "phase_count_target": "5-8"
+  }
+}
