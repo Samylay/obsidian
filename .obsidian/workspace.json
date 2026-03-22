@@ -8,59 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aaa748ce1d6966fc",
+            "id": "cf41da423c25d536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Roadmap.md",
+                "file": "01-Inbox/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Roadmap"
-            }
-          },
-          {
-            "id": "a2055aefb6314d1e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "dd32c50b3f10d9bf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
-            "id": "4db78acc21367552",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-Projects/Neolia/LOG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LOG"
+              "title": "Inbox"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,57 +178,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "1d963343142cfadb",
+  "active": "cf41da423c25d536",
   "lastOpenFiles": [
-    "00-System/GSD-Template/README.md",
-    "00-System/GSD-Template",
-    "03-Projects/Personal-Brand/README.md.tmp.18412.1774117731188",
-    "03-Projects/Triathlon/README.md.tmp.18412.1774117726779",
-    "03-Projects/Japan-Summer/LOG.md",
-    "03-Projects/Personal-Brand/LOG.md",
+    "02-Knowledge/Ject.md",
     "CLAUDE.md",
-    "03-Projects/Neolia/README.md",
-    "03-Projects/Neolia/LOG.md",
-    "05-Knowledge/Books/README.md",
-    "05-Knowledge/Books/Rich-Dad-Poor-Dad.md",
-    "05-Knowledge/Books/Sapiens.md",
-    "05-Knowledge/Books/The-Personal-MBA.md",
-    "05-Knowledge/Books/The-Psychology-of-Money.md",
-    "05-Knowledge/Books/What-Every-BODY-is-Saying.md",
-    "05-Knowledge/Books/As-a-Man-Thinketh.md",
-    "05-Knowledge/Books/Essentialism.md",
-    "02-GSD/Weekly-Review.md",
-    "05-Knowledge/Books/Kali-Linux-Hacking.md",
-    "05-Knowledge/Books/The-Politics-of-Power.md",
-    "05-Knowledge/Books/The-Untethered-Soul.md",
-    "05-Knowledge/Books/Brave-New-World.md",
-    "05-Knowledge/Books/_template.md",
-    "05-Knowledge/Books",
-    "00-System/CLAUDE.md.tmp.18412.1774115553873",
-    "02-GSD/Dashboard.md.tmp.18412.1774115547078",
-    "04-Areas/School/EPITA-S07.md",
-    "04-Areas/School/EPITA-S07.md.tmp.18412.1774115535416",
-    "03-Projects/Personal-Brand/README.md",
-    "03-Projects/Personal-Brand/README.md.tmp.18412.1774115530987",
-    "03-Projects/Japan-Summer/README.md",
-    "03-Projects/Personal-Brand",
-    "03-Projects/Japan-Summer",
-    "03-Projects/Synthscape/Tasks.md",
-    "05-Knowledge/README.md",
+    "06-Archive/Ject-raw-notes.md",
     "06-Archive/GameDev-raw-notes.md",
-    "Attachments/Pasted image 20260121145936.png",
-    "Attachments/Pasted image 20251219145737.png",
-    "Attachments/Pasted image 20251218120910.png",
-    "Attachments/Pasted image 20251207172725.png",
-    "02-Knowledge/School/UXUI/Pasted image 20260120124444.png",
-    "02-Knowledge/School/UXUI/Pasted image 20260120124236.png",
-    "02-Knowledge/School/UXUI/Pasted image 20260120123556.png",
-    "02-Knowledge/School/UXUI/Pasted image 20260112163519.png",
-    "02-Knowledge/School/UXUI/Pasted image 20260112165429.png",
-    "02-Knowledge/School/UXUI/Pasted image 20260112105517.png",
+    "06-Archive",
+    "05-Knowledge/Clippings/Reduced instruction set computer - Wikipedia.md",
+    "05-Knowledge/Clippings/Installing Archlinux with LUKS, SecureBoot, TPM.md",
+    "05-Knowledge/Clippings/How Much Money Our Free Games Made in 2025.md",
+    "05-Knowledge/Clippings/Cal.com  Open Scheduling Infrastructure.md",
+    "05-Knowledge/Clippings/(1) daily.dev  Where developers grow together.md",
+    "05-Knowledge/Books/README.md",
+    "05-Knowledge/README.md",
+    "05-Knowledge/Clippings",
+    "05-Knowledge/Books",
+    "05-Knowledge",
+    "04-Areas/School/UXUI/UX-UI.md",
+    "04-Areas/School/UXUI/Pasted image 20260120124444.png",
+    "04-Areas/School/UXUI/Pasted image 20260120124236.png",
+    "04-Areas/School/UXUI/Pasted image 20260120123556.png",
+    "04-Areas/School/UXUI/Pasted image 20260112165429.png",
+    "04-Areas/School/UXUI/Pasted image 20260112163519.png",
+    "04-Areas/School/UXUI/Pasted image 20260112162545.png",
+    "04-Areas/School/UXUI/Pasted image 20260112161949.png",
+    "04-Areas/School/UXUI/Pasted image 20260112161224.png",
+    "04-Areas/School/UXUI/Pasted image 20260112160828.png",
+    "04-Areas/School/UXUI/Pasted image 20260112105517.png",
+    "04-Areas/School/UXUI/Evaluation-UX.md",
+    "04-Areas/School/UXUI",
+    "04-Areas/School/EPITA-S07.md",
+    "04-Areas/School/DOR-DOD.md",
+    "04-Areas/Health/README.md",
+    "04-Areas/Dev/README.md",
+    "04-Areas/School",
+    "04-Areas/Health",
+    "04-Areas/Dev",
+    "04-Areas",
+    "02-GSD/Tasks/Waiting.md",
+    "02-GSD/Tasks/Someday.md",
+    "02-GSD/Tasks/Active.md",
+    "02-GSD/Weekly-Review.md",
+    "02-GSD/Tasks",
+    "02-GSD/Dashboard.md",
+    "00-System/Skills/README.md",
+    "00-System/GSD-Template/README.md",
+    "00-System/Agents/agent-template.md",
+    "00-System/Agents/agent-ject-sales.md",
     "Untitled.canvas"
   ]
 }

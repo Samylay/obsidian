@@ -4,7 +4,8 @@ Quick captures go here. Review and organize daily.
 
 ## Today's Notes
 
--
+- work on the design of the matching app and define the actual needs, could be ject practice (use an agent to generate a complete yet concise feature list and api schema) as well as the visuals of the app 
+- work on synthscape, start implementing placeholder sprites and systems that will shape the choices we make, probably dialogue, or promt choices, then define the sotry and scope 
 
 ## Quick Capture
 
