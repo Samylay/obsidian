@@ -18,5 +18,5 @@ Quick captures go here. Review and organize daily.
 
 
 
-
+write an essay to respond to veganism, and where i stand, my obsidian could become my knowledge base i could ask an agent to challenge me on my thoughts and sharpen them, could even support with studies etc...
 
