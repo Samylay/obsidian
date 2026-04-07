@@ -16,6 +16,6 @@ Quick captures go here. Review and organize daily.
 - I need to learn envs preprod
 - Should ask Oussama for a VPS that I could use for tests
 
-### Windows Power Commands
+
 
 
