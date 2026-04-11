@@ -20,7 +20,7 @@ Quick captures go here. Review and organize daily.
 
 write an essay to respond to veganism, and where i stand, my obsidian could become my knowledge base i could ask an agent to challenge me on my thoughts and sharpen them, could even support with studies etc...
 
-
+-------------------------------TODAYS NOTES -------------------------------------------
 
 the goal of the workshop is to help les devco : 
 
@@ -30,4 +30,14 @@ talk to them/answer their questions
 
 what the devcos will need to do in this workshop is ask questions that will allow them to prospect effectively in their own way and for them to have the elements that will allow them to do so
 
-my unfair qdvqntqge is thqt i cqn build qnything i want, the only bottleneck i can think of that would prevent me from building ANTHING i want is art 
+my unfair qdvqntqge is thqt i cqn build qnything i want, the only bottleneck i can think of that would prevent me from building truly ANTHING i want is art so i may wanna look into that 
+
+
+-- solo business --
+
+another note is i might wanna stop trying to be a better dev, i may need to speedup my devops learning and capitalize on systems design, then just build and iterate fast
+
+my first goal is to make 200 euros MRR to justify a constant caude max subscription
+
+
+
