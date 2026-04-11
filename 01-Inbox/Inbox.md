@@ -29,3 +29,5 @@ contqct them
 talk to them/answer their questions 
 
 what the devcos will need to do in this workshop is ask questions that will allow them to prospect effectively in their own way and for them to have the elements that will allow them to do so
+
+my unfair qdvqntqge is thqt i cqn build qnything i want, the only bottleneck i can think of that would prevent me from building ANTHING i want is art 
