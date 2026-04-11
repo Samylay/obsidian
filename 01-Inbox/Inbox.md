@@ -39,7 +39,7 @@ another note is i might wanna stop trying to be a better dev, i may need to spee
 
 my first goal is to make 200 euros MRR to justify a constant caude max subscription
 
-
+Another goal is to be able to solve real world problems from start to end, for example, how does one monitor activity on a GPU warehouse, temps, power usage etc, into a comprehensive dashboard, what are the systems that allow for that to happen; i need to start that with my plants, build a humidity and temp checkers, host it inside my homelab and build the dashboard for it, use that to make 
 
 -- AI post-Mythos --
 So, we're fucked.
@@ -50,6 +50,8 @@ What systems do I need to implement and stick to, so that I don't get left behin
 
 
 
-reandom note: 
+random note: 
 
 to help with reading, take pressure off of it by telling yourself you can always reread the book to "give it the attention it deserves", and that if you just delay reading it you won't even know what you don't know, so it's objectively better to read with no attention than to not read at all 
+
+
