@@ -39,7 +39,7 @@ another note is i might wanna stop trying to be a better dev, i may need to spee
 
 my first goal is to make 200 euros MRR to justify a constant caude max subscription
 
-Another goal is to be able to solve real world problems from start to end, for example, how does one monitor activity on a GPU warehouse, temps, power usage etc, into a comprehensive dashboard, what are the systems that allow for that to happen; i need to start that with my plants, build a humidity and temp checkers, host it inside my homelab and build the dashboard for it, use that to make 
+Another goal is to be able to solve real world problems from start to end, for example, how does one monitor activity on a GPU warehouse, temps, power usage etc, into a comprehensive dashboard, what are the systems that allow for that to happen; i need to start that with my plants, build a humidity and temp checkers, host it inside my homelab and build the dashboard for it, use that to make contelnt and show my cool builds to the world, that will give me a virtually unlimited supply of content
 
 -- AI post-Mythos --
 So, we're fucked.
