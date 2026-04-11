@@ -47,3 +47,9 @@ So, we're fucked.
 Now, what is it that I need to do to prepare for the world of tomorrow ?
 What skills do I need to learn to face this ? 
 What systems do I need to implement and stick to, so that I don't get left behind, and most importantly, that I can understand AND contribute to the preservation of modern infrastructure, and maybe even society ?
+
+
+
+reandom note: 
+
+to help with reading, take pressure off of it by telling yourself you can always reread the book to "give it the attention it deserves", and that if you just delay reading it you won't even know what you don't know, so it's objectively better to read with no attention than to not read at all 
