@@ -20,3 +20,12 @@ Quick captures go here. Review and organize daily.
 
 write an essay to respond to veganism, and where i stand, my obsidian could become my knowledge base i could ask an agent to challenge me on my thoughts and sharpen them, could even support with studies etc...
 
+
+
+the goal of the workshop is to help les devco : 
+
+find potential prospects linkedin.. qlumni.. eventually phoning but for now we'll focus on messagin or mailing
+contqct them
+talk to them/answer their questions 
+
+what the devcos will need to do in this workshop is ask questions that will allow them to prospect effectively in their own way and for them to have the elements that will allow them to do so
