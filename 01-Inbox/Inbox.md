@@ -46,4 +46,4 @@ So, we're fucked.
 
 Now to leverage this, what is it that I need to do to prepare for the world of tomorrow ?
 What skills do I need to learn to face this ? 
-What systems do I need to implement and stick to, so that I don't get left behind, and most important
+What systems do I need to implement and stick to, so that I don't get left behind, and most importantly, that I can uderstand AND contribute to the preservation of modern infrastructure, and maybe even society ? 
