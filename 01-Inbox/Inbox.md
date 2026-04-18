@@ -55,3 +55,10 @@ random note:
 to help with reading, take pressure off of it by telling yourself you can always reread the book to "give it the attention it deserves", and that if you just delay reading it you won't even know what you don't know, so it's objectively better to read with no attention than to not read at all 
 
 
+
+- Cookies
+- Pancakes
+- Brownies
+- banana bread
+- granola ? 
+
