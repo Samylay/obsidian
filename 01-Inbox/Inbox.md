@@ -68,3 +68,5 @@ i need gamedev nodejs
 
 
 plan
+
+the personal assistant app could suggest for any given question  i give it a framework like james clear's cue craving response etc, and it should be sth that goes "do you want to apply this framework to this ?"
