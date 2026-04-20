@@ -171,7 +171,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -179,13 +178,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "cf41da423c25d536",
   "lastOpenFiles": [
-    "Daily/2026-03-23.md",
-    "Daily",
     "01-Inbox/Inbox.md",
     "02-Knowledge/Ject.md",
     "CLAUDE.md",
@@ -227,9 +225,11 @@
     "02-GSD/Tasks/Someday.md",
     "02-GSD/Tasks/Active.md",
     "02-GSD/Weekly-Review.md",
+    "02-GSD/Tasks",
     "02-GSD/Dashboard.md",
     "00-System/Skills/README.md",
     "00-System/GSD-Template/README.md",
+    "00-System/Agents/agent-template.md",
     "Untitled.canvas"
   ]
 }
