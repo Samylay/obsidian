@@ -15,10 +15,6 @@
 - [ ] Resume swim sessions from March 30
 - [ ] T1 transition practice with Pioneer wetsuit
 
-### Néolia
-- [ ] Finish migrating Home screen
-- [ ] Fix hardcoded URLs / page IDs
-
 ---
 
 ## #p2 — Should do this week
@@ -27,17 +23,14 @@
 - [ ] Define profiles to hire inside JE
 - [ ] n8n automation for JECT content creation
 
-### Néolia
-- [ ] Resolve missing dispatcher file
-- [ ] Fix unregistered menu location
-
 ### Personal Brand
 - [ ] Take pro picture for socials
 - [ ] Set up content calendar
 
-### Japan
-- [ ] Confirm dates and accommodation
-- [ ] Review visa requirements
+### Japan 🗓️ this evening
+- [ ] Get paperwork ready (visa requirements, enrollment docs)
+- [ ] Book accommodation for Sendai
+- [ ] Confirm dates and lock in travel
 
 ---
 

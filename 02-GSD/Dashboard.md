@@ -17,7 +17,7 @@
 | Project | Next Action | Status |
 |---------|------------|--------|
 | [[03-Projects/JECT/README\|JECT]] | Weekly DevCo blocs | 🟢 |
-| [[03-Projects/Neolia/README\|Néolia]] | Finish migrating Home screen | 🟢 |
+| [[03-Projects/Neolia/README\|Néolia]] | Waiting on client for deployment | 🔵 |
 | [[03-Projects/Synthscape/README\|Synthscape]] | — | 🟡 |
 | [[03-Projects/Triathlon/README\|Triathlon]] | Resume swim March 30 | 🟢 |
 | [[03-Projects/Japan-Summer/README\|Japan Summer]] | Confirm dates | 🟡 |
