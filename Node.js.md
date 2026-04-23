@@ -16,6 +16,7 @@ Tomcat (le serveur embarqué de Spring Boot) dispose par défaut d'un pool de **
 
 ### La boucle d'événements (Node.js)
 
+
 Node.js fonctionne sur un modèle radicalement différent : **un seul thread**, piloté par une **boucle d'événements** (via libuv). Quand une opération I/O est lancée, Node.js ne bloque pas — il enregistre un callback et continue à traiter d'autres requêtes. Quand l'I/O se termine, le callback est exécuté.
 
 Résultat : un seul thread peut gérer des milliers de connexions simultanées sans jamais bloquer.
