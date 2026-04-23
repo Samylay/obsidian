@@ -15,3 +15,4 @@
   └────────────────┴─────────────┴──────────────────────────────────────┘
 
   Key observation for your report: 0% error rate at 1000 VUs — Node.js handles it fine with a single event loop thread, never blocking.
+![[Pasted image 20260423160555.png]]
